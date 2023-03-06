@@ -156,12 +156,13 @@ span {
     padding: 1rem;
   }
 
-  .img,
+  /* .img,
   .layer {
     border-radius: 1rem 1rem 0 0;
-  }
+  } */
 
   .img {
+    border-radius: 1rem 1rem 0 0;
     padding-bottom: 60%;
   }
 
